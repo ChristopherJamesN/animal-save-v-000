@@ -10,5 +10,8 @@ html {
 
 /* Write your solution here */
 @media only screen and (min-width: 406px) and (max-width: 1090px) {
-  left: 800px;
+  #monkey {
+    position: absolute;
+    top: 350px;
+  }
 }
